@@ -1,14 +1,27 @@
 body{
   background-color:  #000000;
   text-align: center;
-  font-family: Verdana,sans-serif;
+  font-family: Verdana;
 }
-.header--main{
+.main{
   font-weight: normal;
   font-size: 50px;
   color: #ffffff;
 }
-.link--cta{
+.firstlink{
   font-size: 16px;
   color: aquamarine;
+}
+.secondhead{
+  color: #ffffff;
+  font-size: 42px;
+  font-weight: 300;
+}
+.thirdhead{
+  color: gray;
+  font-size: 21px;
+}
+.footer{
+  text-align: right;
+  color: gray;
 }
